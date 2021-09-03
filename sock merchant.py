@@ -23,3 +23,4 @@ for x in dd.values():
     if x//2 >=1:
         c+=x//2
 print(c)
+
